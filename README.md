@@ -12,7 +12,7 @@ nora.connor@colorado.edu
 ![profile photo](files/1e_JXdhm0ahYy8-3IgjUPycpkeFgOPdQFt_4Jr38ywf0-photo-0.png)
 
 ## Website
-noraconnor.com
+http://noraconnor.com
 
 # Current Funding
 Funding through IQBio through the end summer 2013.   Started NSF GRFP funding for 2013-2016 in September 2013.
@@ -29,7 +29,7 @@ Aaron Clauset
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {Fall} {2012}     |                   |
+| Start                | Fall 2012     |                   |
 | Area Exam            | {semester} {year} | {Spring} {2015}   |
 | Proposal Defense     | {semester} {year} | {Spring} {2016}   |
 | Dissertation Defense | {semester} {year} | {Spring} {2017}   |
@@ -38,7 +38,8 @@ Aaron Clauset
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {CHEM6901} {Special Topics} | {Fall&Spring} {2011/2012} | {semester} {year}  | {yes} | {yes/no}|
+| {CHEM6901} {Special Topics} | {Fall} {2011} | {semester} {year}  | {yes} | {no}|
+| {CHEM6901} {Special Topics} | {Spring} {2012} | {semester} {year}  | {yes} | {no}|
 | {CSCI5444} {Theory of Comp} | {Fall} {2013} | {semester} {year}  | {no} | {yes}|
 | {CSCI5454} {Design/Analysis Algo} | {Spring 2013} {year} | {semester} {year}  | {no} | {yes}|
 | {CSCI5662} {Mach Learning} | {Spring} {2014} | {semester} {year}  | {no} | {yes}|
