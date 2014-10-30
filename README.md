@@ -12,10 +12,10 @@ nora.connor@colorado.edu
 ![profile photo](files/1e_JXdhm0ahYy8-3IgjUPycpkeFgOPdQFt_4Jr38ywf0-photo-0.png)
 
 ## Website
-
+noraconnor.com
 
 # Current Funding
-Funding through IQBio through the end summer 2013.   Started NSF GRFP funding for 2013-2016 in September.
+Funding through IQBio through the end summer 2013.   Started NSF GRFP funding for 2013-2016 in September 2013.
 
 # PhD Program
 
@@ -29,23 +29,31 @@ Aaron Clauset
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | {Fall} {2012}     |                   |
+| Area Exam            | {semester} {year} | {Spring} {2015}   |
+| Proposal Defense     | {semester} {year} | {Spring} {2016}   |
+| Dissertation Defense | {semester} {year} | {Spring} {2017}   |
 
 ## Courses
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| {CHEM6901} {Special Topics} | {Fall&Spring} {2011/2012} | {semester} {year}  | {yes} | {yes/no}|
+| {CSCI5444} {Theory of Comp} | {Fall} {2013} | {semester} {year}  | {no} | {yes}|
+| {CSCI5454} {Design/Analysis Algo} | {Spring 2013} {year} | {semester} {year}  | {no} | {yes}|
+| {CSCI5662} {Mach Learning} | {Spring} {2014} | {semester} {year}  | {no} | {yes}|
+| {CSCI7222} {Prob Models} | {Fall} {2012} | {semester} {year}  | {yes} | {no}|
+| {CSCI7900} {Ind. Study} | {Fall} {2012} | {semester} {year}  | {no} | {yes}|
+| {EBIO5460} {Theory Ecol/Evol} | {Spring} {2014} | {semester} {year}  | {yes} | {no}|
+| {MCDB5550} {Biophysics} | {Spring} {2012} | {semester} {year}  | {yes} | {no}|
+| {PHYS7810} {Foundations of IQbio} | {Fall} {2011} | {semester} {year}  | {yes} | {no}|
+| {PHYS7810} {Foundations Lab} | {Fall} {2011} | {semester} {year}  | {yes} | {no}|
+
+
+
 
 # Research
+Using network science to evaluate the structure of soil bacterial communities.  Paper forthcoming in PLOS Comp Bio or ISME in Spring 2015.
 
 ## Publications
 
@@ -70,15 +78,15 @@ Aaron Clauset
 
 # Teaching
 
-* {one sentence summary}
+* {N/A.}
 * {one sentence summary}
 * {one sentence summary}
 
 # Service
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
+* {Volunteered to mentor DLA interns, Spring 2014.}
+* {Co-chair of the BioFrontiers Science Alliance.}
+* {Spoke to Engineering 1001 class several times about careers in Computer Science. Fall 2012.}
 
 # Highlights
 
