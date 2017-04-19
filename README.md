@@ -48,7 +48,7 @@ Jordan Boyd-Graber
 | {CSCI5444} {Theory of Comp} | {Fall} {2013} | {semester} {year}  | {no} | {yes}|
 | {CSCI5454} {Design/Analysis Algo} | {Spring 2013} {year} | {semester} {year}  | {no} | {yes}|
 | {CSCI5662} {Mach Learning} | {Spring} {2014} | {semester} {year}  | {no} | {yes}|
-| {CSCI7222} {Prob Models} | {Fall} {2012} | {semester} {year}  | {yes} | {no}|
+| {CSCI7222} {Prob Models} | {Fall} {2012} | {semester} {year}  | {no} | {yes}|
 | {CSCI7900} {Ind. Study} | {Fall} {2012} | {semester} {year}  | {no} | {yes}|
 | {EBIO5460} {Theory Ecol/Evol} | {Spring} {2014} | {semester} {year}  | {yes} | {no}|
 | {MCDB5550} {Biophysics} | {Spring} {2012} | {semester} {year}  | {yes} | {no}|
